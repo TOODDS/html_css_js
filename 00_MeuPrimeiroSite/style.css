@@ -1,0 +1,56 @@
+body {
+    background-color:#F5E0C3;
+    color: black;
+    height: 100%;
+    margin: 0;
+}
+
+.cor {
+    background-color: #4E342E;
+    color: white;
+}
+
+.container {
+    display: grid;
+            place-items: center;
+            height: 100%;
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.imagem {
+    max-width: 100%;
+    height: auto;
+}
+
+.etapas {
+    font-style: italic;
+    font-size: x-large;
+    margin-top: 85px;
+    margin-left: 45px;
+}
+
+.info {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sub {
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cor_marrom {
+    color: brown;
+}
+
+a {
+    color: #4E342E;
+    text-decoration: none;
+    font-size: medium;
+    font-style: italic;
+    margin-left: 20px;
+}
